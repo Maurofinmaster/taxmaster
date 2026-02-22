@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="nl">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Gebruiksvoorwaarden - Tax Master</title>
+        <style>
+            * {
+                margin: 0;
+                padding: 0;
+                box-sizing: border-box;
+            }
+
+            body {
+                font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+                padding: 20px;
+                line-height: 1.7;
+                color: #1E293B;
+                background-color: #FFFFFF;
+                font-size: 15px;
+            }
+
+            h1 {
+                font-size: 28px;
+                font-weight: 700;
+                color: #0F172A;
+                margin-top: 0;
+                margin-bottom: 12px;
+                line-height: 1.3;
+            }
+
+            h2 {
+                font-size: 22px;
+                font-weight: 700;
+                color: #0F172A;
+                margin-top: 36px;
+                margin-bottom: 14px;
+                border-bottom: 2px solid #E2E8F0;
+                padding-bottom: 8px;
+            }
+
+            h3 {
+                font-size: 18px;
+                font-weight: 600;
+                color: #334155;
+                margin-top: 28px;
+                margin-bottom: 10px;
+            }
+
+            p {
+                margin-bottom: 14px;
+                color: #475569;
+            }
+
+            ul, ol {
+                margin-left: 24px;
+                margin-bottom: 16px;
+            }
+
+            li {
+                margin-bottom: 8px;
+                color: #475569;
+                padding-left: 4px;
+            }
+
+            strong, b {
+                font-weight: 600;
+                color: #0F172A;
+            }
+
+            .date {
+                font-size: 13px;
+                color: #64748B;
+                margin-bottom: 24px;
+                font-style: italic;
+            }
+
+            .important-box {
+                background-color: #FEF3C7;
+                border-left: 4px solid #F59E0B;
+                padding: 16px;
+                margin: 20px 0;
+                border-radius: 4px;
+            }
+
+            .info-box {
+                background-color: #F1F5F9;
+                border-left: 4px solid #64748B;
+                padding: 16px;
+                margin: 20px 0;
+                border-radius: 4px;
+            }
+
+            a {
+                color: #2563EB;
+                text-decoration: none;
+            }
+
+            a:hover {
+                text-decoration: underline;
+            }
+
+            hr {
+                border: none;
+                border-top: 1px solid #E2E8F0;
+                margin: 32px 0;
+            }
+
+            .footer {
+                margin-top: 40px;
+                padding-top: 20px;
+                border-top: 2px solid #E2E8F0;
+                text-align: center;
+                color: #64748B;
+                font-size: 13px;
+            }
+        </style>
+    </head>
+    <body>
+
+        <h1>Gebruiksvoorwaarden - Tax Master</h1>
+        <p class="date">Laatste wijziging: 22 februari 2026<br>Ingangsdatum: 4 februari 2026</p>
+
+        <h2>1. INLEIDING</h2>
+
+        <p>Deze gebruiksvoorwaarden ("Voorwaarden") regelen het gebruik van de mobiele applicatie Tax Master ("App", "wij", "ons", "onze"). Door de app te installeren of te gebruiken, ga je akkoord met deze Voorwaarden. Ben je het er niet mee eens, dan dien je de app niet te gebruiken.</p>
+
+        <div class="important-box">
+            <p><strong>Geen professioneel fiscaal advies:</strong> Tax Master is een informatief hulpmiddel dat je helpt jouw belastingsituatie te structureren en te begrijpen. De app biedt <strong>geen</strong> professioneel fiscaal, juridisch of financieel advies en vervangt <strong>geen</strong> officiële aangifte bij de Federale Overheidsdienst Financiën (FOD Financiën).</p>
+        </div>
+
+        <h2>2. TOEGANG &amp; ACCOUNT</h2>
+
+        <ul>
+            <li>Je moet minimaal 16 jaar oud zijn om Tax Master te gebruiken. Ben je jonger dan 16, dan is toestemming van een ouder of wettelijke voogd vereist.</li>
+            <li>Tax Master vereist geen account. De app kan volledig anoniem worden gebruikt, zoals beschreven in ons Privacybeleid.</li>
+        </ul>
+
+        <h2>3. OMSCHRIJVING VAN DE DIENST</h2>
+
+        <p>Tax Master biedt onder meer:</p>
+        <ul>
+            <li>Vragenflows en wizards die je helpen fiscale informatie te structureren.</li>
+            <li>Indicatieve berekeningen en toelichtingen op basis van algemene Belgische belastingregels.</li>
+            <li>Samenvattingen die je helpen bij de voorbereiding van je officiële belastingaangifte.</li>
+        </ul>
+
+        <p>De app kan in de loop der tijd worden bijgewerkt of uitgebreid. Wij behouden ons het recht voor om (onderdelen van) de app op elk moment te wijzigen, tijdelijk te onderbreken of stop te zetten, zonder voorafgaande kennisgeving.</p>
+
+        <h2>4. JOUW VERANTWOORDELIJKHEDEN</h2>
+
+        <p>Jij blijft als enige verantwoordelijk voor:</p>
+
+        <ul>
+            <li>De juistheid, volledigheid en correctheid van alle informatie die je in de app invoert.</li>
+            <li>De interpretatie van de informatie en resultaten die de app toont.</li>
+            <li>Het opstellen, invullen en indienen van je officiële belastingaangifte bij de FOD Financiën.</li>
+            <li>De naleving van alle toepasselijke Belgische belastingwetgeving en aangifteverplichtingen.</li>
+        </ul>
+
+        <p>De resultaten en suggesties in de app zijn uitsluitend indicatief en weerspiegelen mogelijk niet jouw exacte fiscale situatie. Bekijk je situatie altijd zorgvuldig en raadpleeg zo nodig een professionele adviseur.</p>
+
+        <h2>5. GEEN PROFESSIONEEL ADVIES OF GARANTIES</h2>
+
+        <ul>
+            <li>De app biedt geen gepersonaliseerd professioneel fiscaal advies en garandeert niet dat je aan alle belastingregels voldoet.</li>
+            <li>De app garandeert niet dat je bepaalde belastingaftrekken, terugbetalingen of uitkomsten zult verkrijgen.</li>
+            <li>Voorbeelden, scenario's of toelichtingen in de app zijn vereenvoudigd en dekken mogelijk niet alle uitzonderingen of bijzondere gevallen.</li>
+        </ul>
+
+        <p>Bij complexe situaties of ingrijpende financiële beslissingen raden wij aan een erkende belastingadviseur (fiscalist) te raadplegen of rechtstreeks contact op te nemen met de FOD Financiën.</p>
+
+        <h2>6. PRIVACY &amp; GEGEVENS</h2>
+
+        <p>Het gebruik van de app valt ook onder ons <strong>Privacybeleid</strong>, dat uitlegt hoe wij gegevens verwerken en welke informatie uitsluitend op jouw toestel blijft. Lees het Privacybeleid aandachtig door. Bij een tegenstrijdigheid tussen deze Voorwaarden en het Privacybeleid over gegevensverwerking, heeft het Privacybeleid voorrang.</p>
+
+        <h2>7. AANVAARDBAAR GEBRUIK</h2>
+
+        <p>Je stemt ermee in dat je de app niet zult gebruiken om:</p>
+
+        <ul>
+            <li>Illegale, frauduleuze of misbruikgerelateerde handelingen te verrichten.</li>
+            <li>De broncode te reverse-engineeren, te decompileren of te benaderen, tenzij dit wettelijk is toegestaan.</li>
+            <li>Malware, spam of schadelijke inhoud te verspreiden.</li>
+            <li>Beveiligingsmaatregelen te omzeilen of ongeoorloofde toegang te verkrijgen tot systemen of gegevens.</li>
+        </ul>
+
+        <p>Wij kunnen jouw toegang tot de app beperken of beëindigen als wij redelijkerwijs van mening zijn dat je deze Voorwaarden of de toepasselijke wetgeving schendt.</p>
+
+        <h2>8. INTELLECTUELE EIGENDOM</h2>
+
+        <ul>
+            <li>Alle intellectuele eigendomsrechten in de app — waaronder maar niet beperkt tot software, ontwerp, tekst, grafisch materiaal en logo's — zijn eigendom van of in licentie gegeven aan ons.</li>
+            <li>Wij verlenen je een beperkte, niet-exclusieve, niet-overdraagbare en herroepbare licentie om de app op je persoonlijke toestel te installeren en te gebruiken voor eigen, niet-commercieel gebruik.</li>
+            <li>Het is niet toegestaan de app te kopiëren, aan te passen, te verspreiden of afgeleide werken te maken zonder onze voorafgaande schriftelijke toestemming, tenzij de wet dit toelaat.</li>
+        </ul>
+
+        <h2>9. DIENSTEN VAN DERDEN</h2>
+
+        <p>De app maakt gebruik van diensten van derden, zoals Google Firebase en Google Analytics, voor technische doeleinden (bijv. crashrapportage en gebruiksstatistieken). Deze diensten zijn geconfigureerd om uitsluitend geanonimiseerde of geaggregeerde gegevens te verwerken, zoals beschreven in ons Privacybeleid.</p>
+
+        <p>Wij zijn niet verantwoordelijk voor de inhoud, voorwaarden of het beleid van diensten van derden of websites waarnaar binnen de app wordt verwezen of gelinkt.</p>
+
+        <h2>10. BESCHIKBAARHEID &amp; UPDATES</h2>
+
+        <ul>
+            <li>Wij streven ernaar de app beschikbaar en actueel te houden, maar garanderen geen ononderbroken of foutloze werking.</li>
+            <li>Wij kunnen updates, bugfixes of nieuwe versies van de app uitbrengen. Afhankelijk van je toestelinstelling kunnen updates automatisch worden geïnstalleerd.</li>
+            <li>Oudere versies van de app kunnen na verloop van tijd niet langer correct functioneren.</li>
+        </ul>
+
+        <h2>11. UITSLUITING VAN GARANTIES</h2>
+
+        <p>De app wordt aangeboden "zoals ze is" en "zoals beschikbaar".</p>
+
+        <ul>
+            <li>Wij geven geen expliciete of impliciete garanties over de nauwkeurigheid, volledigheid, betrouwbaarheid of geschiktheid van de app voor een bepaald doel.</li>
+            <li>Wij garanderen niet dat de app altijd beschikbaar, veilig, foutloos of compatibel met elk toestel of elke Android-versie zal zijn.</li>
+        </ul>
+
+        <div class="important-box">
+            <p><strong>Tax Master is een hulpmiddel, geen beslisser.</strong> Controleer altijd belangrijke informatie via andere bronnen en baseer kritieke belastingbeslissingen nooit uitsluitend op de app.</p>
+        </div>
+
+        <h2>12. BEPERKING VAN AANSPRAKELIJKHEID</h2>
+
+        <p>Voor zover wettelijk toegestaan, zijn wij niet aansprakelijk voor:</p>
+
+        <ul>
+            <li>Indirecte, incidentele, gevolgschade of bestraffende schadevergoeding.</li>
+            <li>Verlies van belastingvoordelen, boetes, interesten of sancties opgelegd door de belastingdienst.</li>
+            <li>Beslissingen die je neemt op basis van informatie of resultaten die de app toont.</li>
+            <li>Verlies van gegevens die lokaal op je toestel zijn opgeslagen (bijvoorbeeld door verlies, beschadiging of herstel van het toestel).</li>
+        </ul>
+
+        <p>Waar onze aansprakelijkheid wettelijk niet volledig kan worden uitgesloten, is deze beperkt tot het bedrag dat je hebt betaald voor het gebruik van de app in de voorgaande 12 maanden (momenteel 0 EUR zolang de app gratis is).</p>
+
+        <h2>13. BEËINDIGING</h2>
+
+        <ul>
+            <li>Je kunt op elk moment stoppen met het gebruik van de app door deze van je toestel te verwijderen.</li>
+            <li>Wij kunnen jouw toegang tot de app op elk moment opschorten of beëindigen als wij redelijkerwijs van oordeel zijn dat je deze Voorwaarden of de toepasselijke wetgeving schendt, of om technische of veiligheidsredenen.</li>
+            <li>Na beëindiging blijven deze Voorwaarden van toepassing op gebeurtenissen die vóór de beëindiging hebben plaatsgevonden (bijvoorbeeld elk gebruik van de app of ingevoerde gegevens terwijl de app geïnstalleerd was).</li>
+        </ul>
+
+        <h2>14. WIJZIGINGEN IN DEZE VOORWAARDEN</h2>
+
+        <p>Wij kunnen deze Voorwaarden van tijd tot tijd aanpassen, bijvoorbeeld wanneer we nieuwe functies toevoegen of wanneer wet- en regelgeving wijzigt.</p>
+
+        <ul>
+            <li>Bij wijzigingen passen wij de datum "Laatste wijziging" bovenaan dit document aan.</li>
+            <li>Bij wezenlijke wijzigingen kunnen wij ook een melding in de app tonen.</li>
+            <li>Door de app na een wijziging te blijven gebruiken, ga je akkoord met de bijgewerkte Voorwaarden.</li>
+        </ul>
+
+        <h2>15. TOEPASSELIJK RECHT &amp; GESCHILLEN</h2>
+
+        <ul>
+            <li>Op deze Voorwaarden is het Belgisch recht van toepassing.</li>
+            <li>Geschillen die voortvloeien uit of verband houden met deze Voorwaarden of het gebruik van de app worden voorgelegd aan de bevoegde rechtbanken te Gent, België, tenzij dwingend recht anders vereist.</li>
+        </ul>
+
+        <h2>16. CONTACT</h2>
+
+        <p>Heb je vragen over deze Voorwaarden? Neem dan contact met ons op via:</p>
+
+        <div class="info-box">
+            <p><strong>Tax Master Support</strong><br>
+                E-mail: support@taxmaster.app<br>
+                Adres: Gent, België</p>
+        </div>
+
+        <hr>
+
+        <div class="footer">
+            <p>Door Tax Master te installeren of te gebruiken, bevestig je deze Gebruiksvoorwaarden gelezen, begrepen en aanvaard te hebben.</p>
+            <p>© 2026 Tax Master. Alle rechten voorbehouden.</p>
+        </div>
+
+    </body>
+</html>
